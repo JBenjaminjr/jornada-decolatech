@@ -9,14 +9,14 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background-color: rgb(177, 225, 255);
+    background-color: rgb(200, 229, 246);
 }
 
 button {
     height: 40px;
     width: 40px;
     border-radius: 50%;
-    border: 2px solid lightcoral;
+    border: 2px solid rgb(102, 33, 139);
     background-color: rgb(241, 214, 214);
     color: lightcoral;
     font-size: 16pt;
